@@ -25,25 +25,16 @@ Key Features:
 Intuitive Interface: Easy-to-use with clear visual cues.
 Efficient Algorithm: Uses Dijkstra's algorithm for fast pathfinding.
 Customizable: Load your own building and route data.
-Tips:
 
+Tips:
 Ensure your .txt files are formatted correctly according to the provided specifications.
 Zoom in or out using the "+" and "-" buttons for better precision.
-For optimal performance, use a computer with sufficient processing power.
+
 Technical Details:
 
 Data Format: .txt files containing coordinates.
+
 Algorithm: Dijkstra's shortest path algorithm.
+
 Need more help?
 Refer to the detailed user manual for specific instructions.
-
-Key Improvements:
-Concise language: The instructions are more direct and easier to understand.
-Clearer structure: The guide is organized into clear steps, making it easier to follow.
-Visual cues: The guide references the visual elements of the interface, such as colors and buttons.
-Technical details: While providing essential information, the technical details are kept to a minimum to avoid overwhelming the user.
-Additional Considerations:
-
-Screenshots: Adding screenshots could greatly enhance the user's understanding of the interface and steps involved.
-Troubleshooting: A section could be added to address common issues or errors users might encounter.
-Customization options: If the software allows for further customization (e.g., changing map styles or units), these options could be highlighted.
